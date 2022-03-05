@@ -1,2 +1,2 @@
 # SMM
-backup social media
+Tutorial in italiano sull'uso delle API di twitter
